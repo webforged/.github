@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-    <b><a href="http://webforged.net/contact">Website Contact</a> • <a href="https://github.com/webforged">Github Organization</a></b>
+    <b><a href="http://webforged.cc/contact">Website Contact</a> • <a href="https://github.com/webforged">Github Organization</a></b>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 
 ### Contact
 
-You can contact webforged team at <b><a href="http://webforged.net/contact">webforged.net/contact</a></b> or <b><a href="maito:quotes@webforged.net">quotes@webforged.net</a></b>
+You can contact webforged team at <b><a href="http://webforged.cc/contact">webforged.net/contact</a></b> or <b><a href="maito:quotes@webforged.cc">quotes@webforged.net</a></b>
 
 #### Copyright
 
