@@ -18,7 +18,7 @@
 
 ### Contact
 
-You can contact webforged team at <b><a href="http://webforged.cc/contact">webforged.net/contact</a></b> or <b><a href="maito:quotes@webforged.cc">quotes@webforged.net</a></b>
+You can contact webforged team at <b><a href="http://webforged.cc/contact">webforged.cc/contact</a></b> or <b><a href="maito:quotes@webforged.cc">quotes@webforged.cc</a></b>
 
 #### Copyright
 
